@@ -1,1 +1,1 @@
-# N-3-Macdonald-Notebooks
+# N=3-Macdonald-Notebooks
